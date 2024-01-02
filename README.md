@@ -1,4 +1,4 @@
 # tisha-demo
 This is my Git Repository.
 <br>
-Author Tisha 
+Author Tisha Chauhan
